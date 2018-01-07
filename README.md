@@ -7,6 +7,7 @@ In these Jupyter notebooks , we are performing Classification on two datasets:
 In this Notebook, we will be using the Contraceptive Prevalence dataset. This dataset is a subset of the 1987 National Indonesia Contraceptive Prevalence Survey. The samples are married women who were either not pregnant or do not know if they were at the time of interview. The problem is to predict the current contraceptive method choice (no use, long-term methods, or short-term methods) of a woman based on her demographic and socio-economic characteristics.
 
 The dataset can be found here : https://archive.ics.uci.edu/ml/datasets/cmc
+
 The notebook can be downloaded from this link:
 https://github.com/saxenakrati09/Classification_in_python/blob/master/Data%20Science%20Workbook%20-%20cmc%20Dataset.ipynb
 
@@ -14,6 +15,7 @@ https://github.com/saxenakrati09/Classification_in_python/blob/master/Data%20Sci
 In this Jupyter Notepad, we will using the Mushroom Dataset to predict whether a Mushroom is edible or poisonous. This dataset includes descriptions of hypothetical samples corresponding to 23 species of gilled mushrooms in the Agaricus and Lepiota Family Mushroom drawn from The Audubon Society Field Guide to North American Mushrooms (1981). Each species is identified as definitely edible, definitely poisonous, or of unknown edibility and not recommended. This latter class was combined with the poisonous one. The Guide clearly states that there is no simple rule for determining the edibility of a mushroom; no rule like "leaflets three, let it be'' for Poisonous Oak and Ivy.
 
 The dataset can be found here: https://archive.ics.uci.edu/ml/datasets/Mushroom
+
 The notebook can be downloaded from this link:
 https://github.com/saxenakrati09/Classification_in_python/blob/master/Data%20Science%20on%20Mushroom%20Data.ipynb
 
