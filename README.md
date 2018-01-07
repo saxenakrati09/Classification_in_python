@@ -20,7 +20,7 @@ The notebook can be downloaded from this link:
 https://github.com/saxenakrati09/Classification_in_python/blob/master/Data%20Science%20on%20Mushroom%20Data.ipynb
 
 ## Steps
-In this Notebook, we'll perform:
+In these Notebooks, we'll perform:
 
 - Feature Exploration (Uni and Bi-variate)
 - Feature Imputation
@@ -82,13 +82,3 @@ docker stop jupyter
 # Remove Jupyter Docker Container
 docker rm jupyter
 ```
-
-Feature Exploration (Uni and Bi-variate)
-Feature Imputation
-Feature Selection
-Feature Encoding
-Feature Ranking
-Machine Learning Training
-Random Search
-Accuracy, Precision, Recall, and f1 calculations
-ROC Curve
